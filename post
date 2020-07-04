@@ -1,0 +1,9 @@
+---
+layout: layout.html
+---
+
+<h1>Welcome to the class</h1>
+
+<p>It works.</p>
+
+<a href="/posts/2020-07-04-first-post"> First post</a>
